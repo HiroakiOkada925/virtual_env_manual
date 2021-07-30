@@ -320,8 +320,12 @@ Laravel6.0での認証機能を実装していきます。
 まだまだ知識が足りず、数をこなしてどんどん慣れていかないといけないと痛感したので、これからも環境構築の勉強に積極的に取り組んでいきたい。
 
 ## 参考サイト
-[Vagrant + CentOS7 + PHP7.3 でLaravelの開発環境を構築する](https://mikepon.jp/vagrant-centos7-php7-laravel/)　　
-[laravelをバージョン指定(laravel6)でインストールする方法](https://qiita.com/megukentarou/items/d62bf85822cd57c75bff)　　
-[Laravel6 ログイン機能を実装する](https://qiita.com/ucan-lab/items/bd0d6f6449602072cb87#laravelui-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)　　
-[Vagrant + VirtualBOx で 最新のCentOS7 vbox(centos/7 2004.01)でマウントできない問題](https://qiita.com/mao172/items/f1af5bedd0e9536169ae)　　
-[php-fpmの設定](http://www.ajisaba.net/php/php-fpm/php74-fpm_conf.html)　　
+[Vagrant + CentOS7 + PHP7.3 でLaravelの開発環境を構築する](https://mikepon.jp/vagrant-centos7-php7-laravel/)
+<br>
+[laravelをバージョン指定(laravel6)でインストールする方法](https://qiita.com/megukentarou/items/d62bf85822cd57c75bff)
+<br>
+[Laravel6 ログイン機能を実装する](https://qiita.com/ucan-lab/items/bd0d6f6449602072cb87#laravelui-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
+<br>
+[Vagrant + VirtualBOx で 最新のCentOS7 vbox(centos/7 2004.01)でマウントできない問題](https://qiita.com/mao172/items/f1af5bedd0e9536169ae)
+<br>
+[php-fpmの設定](http://www.ajisaba.net/php/php-fpm/php74-fpm_conf.html)
